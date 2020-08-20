@@ -1,0 +1,10 @@
+com\db\tradestore\exception\InvalidTradeVersionException.class
+com\db\tradestore\service\TradeServiceImpl.class
+com\db\tradestore\model\Trade.class
+com\db\tradestore\model\TradeWrapper.class
+com\db\tradestore\controller\TradeController.class
+com\db\tradestore\repository\TradeRepo.class
+com\db\tradestore\service\TradeService.class
+com\db\tradestore\tasks\PersistTradeStoreTask.class
+com\db\tradestore\TradeStoreApplication.class
+com\db\tradestore\tasks\ValidationUtilsTask.class
